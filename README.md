@@ -1,5 +1,7 @@
 Quiz Master 🧠🔥 – A Dynamic Quiz App
 
+Link: https://ayxan-mirzeyev-7674.github.io/QuizMaster/
+
 A sleek and interactive quiz application built with React and powered by the Open Trivia Database (OpenTDB) API. Test your knowledge across various categories and challenge yourself with different difficulty levels!
 
 ✨ Features:
